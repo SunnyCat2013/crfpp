@@ -1,2 +1,4 @@
-see doc/index.html
+# sdk usage
+1. install crfpp
+2. cd sdk && cmake . && make && ./crfpp_wrapper
 
